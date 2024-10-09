@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974735180179",
+    "project_id": "nutritrack-1f428",
+    "storage_bucket": "nutritrack-1f428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974735180179:android:8ae33ea72cc25a6b95e866",
+        "android_client_info": {
+          "package_name": "com.example.nutritrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJxyMRw-cdpJoqBMawK4QeBqJW3LBy6jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
